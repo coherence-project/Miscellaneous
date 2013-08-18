@@ -1,0 +1,13 @@
+# editor artefacts
+*~
+.#*
+\#*#
+.*.swp
+
+# OS generated files
+*.DS_[sS]Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.pid
+._.**~
